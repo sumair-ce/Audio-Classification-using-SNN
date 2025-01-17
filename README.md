@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1 align="center">Audio Classification System</h1>
+<h1 align="left">Audio Classification System</h1>
 
 <p>This project focuses on developing an Audio Classification system to categorize audio signals into predefined classes such as speech, music, and noise using advanced signal processing techniques and neural networks.</p>
 
