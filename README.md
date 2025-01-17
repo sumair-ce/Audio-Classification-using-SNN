@@ -35,7 +35,7 @@
 <h2>Dataset</h2>
 <p>The project uses the <a href="https://www.kaggle.com/code/prabhavsingh/urbansound8k-classification/input" target="_blank">UrbanSound8K dataset</a> for training and testing purposes. This dataset contains a wide variety of labeled audio samples, making it ideal for building and evaluating the classification system.</p>
 
-<h2>System Performance</h2>
+<h2>Model Performance</h2>
 <p align="center">
     <img src="https://github.com/sumair-ce/Audio-Classification-using-SNN/blob/main/System%20performance.png?raw=true" alt="System Performance">
 </p>
